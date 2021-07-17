@@ -8,6 +8,8 @@ Package1
 |__ IASPackage
      |
      |_  DataAnalysis.py
+     |_  TextAnalysis.py
+     |...
      |_  __init__.py
 ```
 
