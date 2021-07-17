@@ -1,5 +1,6 @@
 ## Institut des Algorithmes du Sénégal
 
+```
 Package1
 |
 |__ setup.py
